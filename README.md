@@ -33,6 +33,13 @@ An educational web platform built to empower young software developers with Fron
 
 ## 🛠️ Tech Stack
 * **HTML5** (Structural Semantic Tags, Forms, Tables, iFrames, and Links)
+---
+
+## 📬 Contact Details
+- **Developer**: Sivanesan L
+- **Location**: Pudukkottai, Tamil Nadu
+- **Email**: ladappansivanesan@gmail.com
+- **Phone**: +91 6379580230
 
 ---
 
