@@ -11,7 +11,7 @@ An educational web platform built to empower young software developers with Fron
 
 ## 🌐 Live Demo
 👉 **[Click Here to Visit Sivanesan Academy](https://datawithsiva01.github.io/Sivanesan-Academy-Web/)**
-*(Note: Replace `yourusername` with your actual GitHub username)*
+
 
 ---
 
